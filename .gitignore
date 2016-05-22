@@ -1,0 +1,6 @@
+/*
+**.DS_Store
+!/src
+!/src/*
+/src/package.xml
+!.gitignore

@@ -1,0 +1,3 @@
+<apex:page controller="Callout" contentType="application/x-JavaScript; charset=utf-8" showHeader="false" standardStylesheets="false" sidebar="false">
+{!data}
+</apex:page>
