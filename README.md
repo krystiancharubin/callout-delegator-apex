@@ -4,7 +4,7 @@ Apex Callout Delegator is a proof of concept library that allows performing Call
 
 ### Related Blogs and Articles
 
-* [Apex Callout Delegator - Bypass System.CalloutException](http://www.soliantconsulting.com/category/salesforce)
+* [Apex Callout Delegator - Bypass System.CalloutException](http://www.soliantconsulting.com/blog/2016/09/apex-callout-delegator)
 
 ### Example
 
